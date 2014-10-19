@@ -2,6 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include "emaglobal.h"
+#include "emalib.h"
 
 namespace Ui {
 class MainWindow;
